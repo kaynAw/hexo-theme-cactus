@@ -14,10 +14,10 @@ direction: ltr
 # navigation menu. Optionally, you can add translations for the 'Key' in
 # languages/*.yml
 nav:
-  Home: /
-  About: /about/
-  Articles: /archives/
-  Gallery: https://photos.app.goo.gl/yPHkxJEnrPPqV4Sr9
+  Home 🏠: /
+  About 🔍: /about/
+  Articles 📖: /archives/
+  Gallery 📷: https://photos.app.goo.gl/yPHkxJEnrPPqV4Sr9
 
 
 # Links to your social media accounts.
