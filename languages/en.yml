@@ -1,7 +1,7 @@
 nav:
   home: Home
   about: About
-  articles: Writing
+  articles: Articles
   tag: Tag
   category: Category
   projects: Projects
@@ -65,5 +65,5 @@ comments:
   no_js: Please enable JavaScript to view the comments.
 
 tooltip:
-  copy_tip: Copy to clipboard!
-  copied: Copied!
+  copy_tip: Copy to clipboard 😶
+  copied: Copied 😝
