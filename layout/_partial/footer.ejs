@@ -5,6 +5,7 @@
     <% var startYear = (theme.copyright && theme.copyright.start_year) ? theme.copyright.start_year : new Date().getFullYear() %>
     <%= startYear >= endYear ? endYear : startYear + "-" + endYear %>
     <%= config.author || config.title %>
+    <a href="http://beian.miit.gov.cn/" target="_blank">皖ICP备18000636号</a>
   </div>
   <div class="footer-right">
     <nav>
