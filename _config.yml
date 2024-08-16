@@ -96,11 +96,11 @@ error_404:
 #   - gravatar: whether to use your Gravatar as the logo
 #   - grayout: whether to enable a hover effect on the logo
 logo:
-  enabled: true
+  enabled: false
   width: 50
   height: 50
   url: /images/logo.png
-  gravatar: true
+  gravatar: false
   grayout: true
 
 # Customize the favicons.
